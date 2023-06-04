@@ -19,7 +19,7 @@ git clone https://github.com/jacksoncardosoleite/cron-app-mentoria
 2- Install the dependencies
 ```bash
 yarn
-
+```
 
 3- Run app in expo 
 ```bash
